@@ -37,4 +37,4 @@ Contributions to this project are welcome! If you have any suggestions, bug fixe
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Abdelftah_Khaled](LICENSE).
