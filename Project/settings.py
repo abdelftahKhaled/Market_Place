@@ -128,3 +128,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 import os
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
+
+INSTALLED_APPS += [
+  
+    'rest_framework',
+
+    'User',
+]
+
+
