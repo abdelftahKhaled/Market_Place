@@ -3,9 +3,9 @@
 
 This is a Django-based marketplace project aiming to create an online platform where users can buy and sell various products or services.
 
-## Template Description
+## Description
 
-The template used for this project is available at [HTMLCodex](https://htmlcodex.com/demo/?item=1479). It provides a sleek and modern design suitable for a marketplace website. Here's an overview of the template's features:
+
 
 - **Homepage**: A visually appealing landing page showcasing various products or services available on the marketplace.
   
